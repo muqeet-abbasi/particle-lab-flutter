@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # particle_playground
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# particle-lab-flutter
+A real-time quantum particle simulator built with Flutter Web
+>>>>>>> aeba22fae4664f9a03267e52a313cd8cf9f2cfe4
